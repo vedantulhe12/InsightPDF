@@ -91,6 +91,6 @@ pdf-insight-agent/
 
 ---
 
-##  License
+## 🪪 License
 
-MIT License © 2025 
+This project is licensed under the [MIT License](LICENSE).
