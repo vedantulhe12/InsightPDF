@@ -4,7 +4,7 @@ An agentic AI app that allows you to upload a PDF and ask intelligent questions 
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 📁 Upload any PDF file  
 - 🔍 Automatically extracts and splits text  
@@ -14,7 +14,7 @@ An agentic AI app that allows you to upload a PDF and ask intelligent questions 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python  
 - Streamlit  
@@ -25,7 +25,7 @@ An agentic AI app that allows you to upload a PDF and ask intelligent questions 
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### 1. Clone the Repository
 
@@ -56,7 +56,7 @@ OPENAI_API_KEY = "your_openai_api_key_here"
 
 ---
 
-## ▶️ Running the App
+##  Running the App
 
 ```bash
 streamlit run app.py
@@ -66,7 +66,7 @@ Visit [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 pdf-insight-agent/
@@ -81,7 +81,7 @@ pdf-insight-agent/
 
 ---
 
-## 📌 To-Do / Ideas
+##  To-Do / Ideas
 
 - [ ] Multi-PDF support  
 - [ ] PDF summarization agent  
@@ -91,13 +91,6 @@ pdf-insight-agent/
 
 ---
 
-## 🙋‍♂️ Author
+##  License
 
-**Vedant Ulhe**  
-Made with 💻 and ☕ for quick research on documents.
-
----
-
-## 🪪 License
-
-MIT License © 2025 Vedant Ulhe
+MIT License © 2025 
