@@ -6,11 +6,11 @@ An agentic AI app that allows you to upload a PDF and ask intelligent questions 
 
 ##  Features
 
-- 📁 Upload any PDF file  
-- 🔍 Automatically extracts and splits text  
-- 🧠 Ask natural-language questions  
-- 🗂️ Uses FAISS for vector similarity search  
-- 💬 Powered by OpenAI GPT via LangChain
+- Upload any PDF file  
+- Automatically extracts and splits text  
+- Ask natural-language questions  
+- Uses FAISS for vector similarity search  
+- Powered by OpenAI GPT via LangChain
 
 ---
 
@@ -91,6 +91,6 @@ pdf-insight-agent/
 
 ---
 
-## 🪪 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
